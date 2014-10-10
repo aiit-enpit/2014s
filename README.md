@@ -18,7 +18,7 @@ http://tasquel.herokuapp.com/
 
 - IRohash「eXtick」  
 https://github.com/328--/eXtick  
-http://extick.herokuapp.com/
+http://extick.herokuapp.com/  
 http://goo.gl/N8OJ0y
 
 - Project KUA「QUA Map」  
