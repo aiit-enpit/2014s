@@ -10,7 +10,8 @@ http://aimai-lunch.herokuapp.com/
 
 - チーム土曜日「RakuTabi」  
 https://github.com/tnumata3632/RakuTabi  
-http://rakutabi.herokuapp.com/
+http://rakutabi.herokuapp.com/  
+バックログ: https://github.com/tnumata3632/RakuTabi#boards
 
 - 主音(トニカ)「Tas-quel」  
 https://github.com/enPIT-Tonika/tasquel  
