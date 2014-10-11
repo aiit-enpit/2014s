@@ -5,25 +5,25 @@
 
 
 - wassermann「あいまいランチ」  
-https://github.com/esodov/wassermann  
-http://aimai-lunch.herokuapp.com/
+ソース: https://github.com/esodov/wassermann  
+実行環境: http://aimai-lunch.herokuapp.com/
 
 - チーム土曜日「RakuTabi」  
-https://github.com/tnumata3632/RakuTabi  
-http://rakutabi.herokuapp.com/  
+ソース: https://github.com/tnumata3632/RakuTabi  
+実行環境: http://rakutabi.herokuapp.com/  
 バックログ: https://github.com/tnumata3632/RakuTabi#boards
 
 - 主音(トニカ)「Tas-quel」  
-https://github.com/enPIT-Tonika/tasquel  
-http://tasquel.herokuapp.com/
+ソース: https://github.com/enPIT-Tonika/tasquel  
+実行環境: http://tasquel.herokuapp.com/
 
 - IRohash「eXtick」  
-https://github.com/328--/eXtick  
-http://extick.herokuapp.com/  
-http://goo.gl/N8OJ0y
+ソース: https://github.com/328--/eXtick  
+実行環境: http://extick.herokuapp.com/  
+バックログ: http://goo.gl/N8OJ0y
 
 - Project KUA「QUA Map」  
-https://github.com/projectKUA/quamap  
-http://quamap.herokuapp.com
+ソース: https://github.com/projectKUA/quamap  
+実行環境: http://quamap.herokuapp.com
 
 - bigtusk「」
