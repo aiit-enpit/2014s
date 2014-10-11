@@ -11,7 +11,7 @@
 - チーム土曜日「RakuTabi」  
 ソース: https://github.com/tnumata3632/RakuTabi  
 実行環境: http://rakutabi.herokuapp.com/  
-バックログ: https://github.com/tnumata3632/RakuTabi#boards
+バックログ: https://github.com/tnumata3632/RakuTabi#boards (要ChromeのZenHub拡張)
 
 - 主音(トニカ)「Tas-quel」  
 ソース: https://github.com/enPIT-Tonika/tasquel  
