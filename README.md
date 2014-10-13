@@ -7,7 +7,7 @@
 ## wassermann「あいまいランチ」
 * ソース: https://github.com/esodov/wassermann
 * 実行環境: http://aimai-lunch.herokuapp.com/
-* バックログ:
+* バックログ: https://docs.google.com/spreadsheets/d/10-33M4CwnUUTFYlnNNNTeGkqNsTrViAOQj2Gf2_lJrE/edit#gid=0
 
 ## チーム土曜日「RakuTabi」
 * ソース: https://github.com/tnumata3632/RakuTabi
