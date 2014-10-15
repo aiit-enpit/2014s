@@ -22,7 +22,7 @@
 ## IRohash「eXtick」
 * ソース: https://github.com/328--/eXtick
 * 実行環境: http://extick.herokuapp.com/
-* バックログ: http://goo.gl/N8OJ0y
+* バックログ: https://trello.com/b/laug1EgR/irohash-enpit
 
 ## Project KUA「QUA Map」
 * ソース: https://github.com/projectKUA/quamap
