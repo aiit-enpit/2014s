@@ -29,8 +29,7 @@
 * 実行環境: http://quamap.herokuapp.com
 * バックログ:
 
-## bigtusk「」
-* ソース: https://github.com/aiit-enpit/bigtusk
-* 実行環境:　
-* バックログ: https://github.com/aiit-enpit/bigtusk/issues
-
+## buzaar「cloreco」
+* ソース: https://github.com/aiit-enpit/cloreco
+* 実行環境:
+* バックログ: https://github.com/aiit-enpit/cloreco/issues
