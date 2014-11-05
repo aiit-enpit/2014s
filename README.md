@@ -27,7 +27,7 @@
 ## Project KUA「QUA Map」
 * ソース: https://github.com/projectKUA/quamap
 * 実行環境: http://quamap.herokuapp.com
-* バックログ: https://docs.google.com/spreadsheets/d/1XG_7Q4yUZaYs1D3ub4VsyBA8szkfiFHAUaXcRnzJy2Q/
+* バックログ: https://github.com/projectKUA/quamap#boards  (要ChromeのZenHub拡張)
 
 ## buzaar「cloreco」
 * ソース: https://github.com/aiit-enpit/cloreco
