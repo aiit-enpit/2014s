@@ -31,5 +31,5 @@
 
 ## buzaar「cloreco」
 * ソース: https://github.com/aiit-enpit/cloreco
-* 実行環境:
-* バックログ: https://github.com/aiit-enpit/cloreco/issues
+* 実行環境: https://cloreco.herokuapp.com/
+* バックログ: https://waffle.io/aiit-enpit/cloreco
