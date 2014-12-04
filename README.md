@@ -16,7 +16,7 @@
 
 ## 主音(トニカ)「Tas-quel」
 * ソース: https://github.com/enPIT-Tonika/tasquel
-* 実行環境: http://tasquel.herokuapp.com/
+* 実行環境: http://tasquel-enpit.herokuapp.com/
 * バックログ:https://trello.com/b/iPl2rvxT/tonica
 
 ## IRohash「eXtick」
